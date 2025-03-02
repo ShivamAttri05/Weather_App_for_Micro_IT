@@ -39,11 +39,6 @@ This Weather Application allows users to search for real-time weather informatio
 3. View the weather details, including temperature, city name, and weather description.
 4. If an invalid city is entered, an error message will be displayed.
 
-## Future Improvements
-- Add support for geolocation-based weather fetching.
-- Implement a dark mode for better user experience.
-- Provide a 7-day weather forecast.
-
 ## Author
 ### Shivam Attri
 Developer and creator of this Weather Application.
