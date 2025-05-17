@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = 'API_ID'; // Replace with your OpenWeather API key
+    const apiKey = '4450649825b5fee22f5bb1d2f35d6714'; // Replace with your OpenWeather API key
     const cityInput = document.getElementById('city-input');
     const getWeatherBtn = document.getElementById('get-weather-btn');
     const weatherInfo = document.getElementById('weather-info');
